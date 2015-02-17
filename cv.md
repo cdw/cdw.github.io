@@ -2,30 +2,28 @@
 layout: page
 permalink: /cv/
 title: CV and Publications
-tagline: Flight, muscle, and computational approaches 
+tagline: Muscle, flight, and computational approaches 
 tags: [cv, publications]
 modified: 6-30-2014
 comments: false
 ---
 
 # C. David Williams  
-NSF Postdoctoral research fellow  
-Dept. of Organismic & Evolutionary Biology  
-Harvard University  
-Advisor: Andy Biewener  
+WRF/Moore Sloan Innovation Postdoctoral Fellow in Data Science  
+Depts of Biology and Computer Science & Engineering  
+University of Washington  
+Advisors: Thomas Daniel and Magda Balazinska  
   
-Concord Field Station  
-100 Old Causeway Rd.  
-Bedford, MA 01730  
-
 cdave@uw.edu  
 
 ## Professional Preparation  
 - Reed College; Physics; BA, 2006
 - University of Washington; Physiology & Biophysics; PhD, 2012
-- Harvard University; Postdoc; 2012-Present
+- Harvard University; Postdoc; 2012-2014
 
 ## Fellowships and Grants
+- ARO Multi-University Grant, "Muscle's energetic versatility arises from its crystalline and multi-component structure", 2014-2018
+- WRF/Moore Sloan Innovation Fellowship in Data Science, 2014-2016
 - NSF Postdoctoral Fellow in Mathematical Biology, 2012-2014
 - NCBI Bioengineering Cardiovascular Training Grant, 2007-2010
 - Amazon Grants For Research, Direct Award, 2010
@@ -35,7 +33,7 @@ cdave@uw.edu
 - **Williams, CD**; Regnier, M; Daniel, TL. Elastic energy storage and radial forces in the myofilament lattice depend on sarcomere length. PLoS Computational Biology (2012) DOI: 10.1371/journal.pcbi.1002770
 - George, NT; Irving, TC; **Williams, CD**; Daniel, TL. The cross-bridge spring: can cool muscles store elastic energy?. Science (2013) DOI: 10.1126/science.1229573
 - **Williams, CD**; Salcedo, MK; Irving, TC; Regnier, M; Daniel, TL. The length-tension curve in muscle depends on lattice spacing. Proceedings of the Royal Society B (2013) DOI: 10.1098/rspb.2013.0697
-- **Williams, CD**; Biewener, AA. Control and stability: maneuver choice in confined flight. Journal of Experimental Biology (in preparation)
+- **Williams, CD**; Biewener, AA. Control and stability: maneuver choice in confined flight. PNAS (in press)
 
 ## Teaching Experience
 - Graduate Teaching Assistant for Human Physiology at Univ. of Wash.  
@@ -51,7 +49,7 @@ cdave@uw.edu
 - **Dept. of Energy National Science Bowl, Outside Expert** - Question writer for the National Science Bowl, organized through the Oak Ridge Institute for Science and Education, 2010-2012
 - **UW-EMP partnership** - Part of team that developed educational resources for Avatar: the Exhibition, now touring the US, 2010-2011
 - **Pacific Science Center Scientist** - Led interactive demonstration of high-speed videography at PAWS on Science, 2011
-- **Outreach through Harvard Life Sciences** - Gradwagon, 2012-Present
+- **Outreach through Harvard Life Sciences** - Gradwagon, 2012-2014
 
 ## Affiliations and Service
 - Professional Affiliations: Society for Comparative Biology (SICB), Biophysical Society
